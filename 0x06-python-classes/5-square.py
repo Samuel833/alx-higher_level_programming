@@ -24,7 +24,7 @@ class Square:
     @size.setter
     def size(self, value):
         """Sets value into size, must be int.
-        
+
         Args:
             value (int): size of the square.
         """
